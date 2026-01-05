@@ -1,3 +1,3 @@
 ## 📸 Demo
-- Live Site: https://yaseerm.me/javascript-projects/js-weather%20app%20(api)/
+- Live Site: https://infoyaseer.github.io/Notes-Web-App/
 - Source Code: This repository
